@@ -1,6 +1,8 @@
-# Practical-Assignment-Module5
-repo containing files for first practical assignment for PCMLAI course
-### [link to public github repo containing code](https://github.com/mnazers734/Practical-Application-Module5)
+# Practical-Assignment-Module5 
+
+## practical application 1.ipyng - main Jupyter notebook
+
+## [link to public github repo containing code](https://github.com/mnazers734/Practical-Application-Module5)
 
 ## Data Analysis and Cleaning
 
